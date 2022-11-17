@@ -3,3 +3,5 @@ Diseñar e implementear un programa en java que permita realizar las 4 operacion
 
 # Herencia2
 Implementar un programa en java para calcular el área y el perimetro de un rectángulo y un círculo.
+
+![Diagrama de clases](Herencia.jpeg)
